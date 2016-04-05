@@ -6,7 +6,7 @@
 
 /* 
  * File:   DaemonList.cpp
- * Author: Christian Frei1
+ * Author: Christian Frei
  * 
  * Created on 31. Dezember 2015, 15:15
  */
